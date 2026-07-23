@@ -6,6 +6,6 @@ gunicorn==23.0.0
 marshmallow==3.26.2
 psutil==5.9.5
 pycryptodome==3.21.0
-requests==2.33.1
+requests==2.34.2
 robotframework==6.1.1
 webargs==8.0.1
